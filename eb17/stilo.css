@@ -1,0 +1,27 @@
+h1{
+    border: 1px solid red;
+    padding-left: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+prueba{
+    border: 1px solid blue;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.imagen1{
+    margin-bottom: 100px;
+    width: 500px;
+}
+.imagen2{
+    height: 500px;
+    width: 100px ;
+}
+.imagen3{
+    height: 200px;
+}
+.imagen4{
+    
+}
